@@ -81,7 +81,8 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    New Laravel project
+                    Poslednji projekat se radi!
+                    
                 </div>
 
                 <div class="links">

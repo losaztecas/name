@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Project
+                    project spreman
                 </div>
                 <div>
                     Laravel - production

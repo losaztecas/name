@@ -82,7 +82,7 @@
             <div class="content">
                 <div class="title m-b-md">
                     Poslednji projekat se radi!
-                    
+                    moramo da idemo kod uspehu!!!!!
                 </div>
 
                 <div class="links">

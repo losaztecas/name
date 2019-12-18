@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    New Laravel project (test mode)
+                    New Laravel project
                 </div>
 
                 <div class="links">

@@ -81,7 +81,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
+<<<<<<< HEAD
                     New Laravel project (dev mode)
+=======
+                    Laravel - dev
+>>>>>>> d777cc2ea1379ce1d50d7515d9d781cd757e1269
                 </div>
 
                 <div class="links">

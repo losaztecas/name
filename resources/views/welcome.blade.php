@@ -81,14 +81,10 @@
 
             <div class="content">
                 <div class="title m-b-md">
-<<<<<<< HEAD
                     Project
                 </div>
                 <div>
-                    Jenkins edition v.2
-=======
                     Laravel - production
->>>>>>> da9f2c4b46f5bde715ea983b1be157519766318b
                 </div>
 
                 <div class="links">

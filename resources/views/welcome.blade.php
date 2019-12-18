@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel - dev
+                    i ovaj project takodzie spreman
                 </div>
 
                 <div class="links">

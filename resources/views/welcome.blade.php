@@ -84,7 +84,7 @@
                     project spreman
                 </div>
                 <div>
-                    Laravel - production
+                    govori se lepo
                 </div>
 
                 <div class="links">
